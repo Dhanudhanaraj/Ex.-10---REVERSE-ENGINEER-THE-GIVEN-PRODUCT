@@ -78,7 +78,7 @@ Register Number:212222230030
 ```
 ![WhatsApp Image 2023-06-02 at 2 33 24 PM](https://github.com/Dhanudhanaraj/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119218812/289b2473-5ec2-4d9e-9aa1-a8dcabde25d9)
 
-### OUTPUT:
+## OUTPUT:
 
 ![EDMSA-2](https://github.com/Dhanudhanaraj/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119218812/5b9def4f-2548-4f22-88a8-56954b3ccae2)
 
